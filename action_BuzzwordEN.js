@@ -9,8 +9,7 @@ action_BuzzwordEN = function() {
 // empty
 // action_BuzzwordEN: make a sentence.
 //
-// code sourced from: <title>Corporate B.S. Generator</title>
-// <!-- saved from url=(0042)https://www.atrixnet.com/bs-generator.html -->
+//	origin: Corporate B.S. Generator url = https://www.atrixnet.com/bs-generator.html
 //
 //	
 };
